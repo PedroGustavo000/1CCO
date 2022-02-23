@@ -1,0 +1,1 @@
+Primeiro aquivo criado no repositorio, mas sempre é recomendado fazer isto pelo terminal
